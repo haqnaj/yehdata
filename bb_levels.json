@@ -1,13 +1,13 @@
 {
 	"occupancy_types": [
 		{
-			"name": "jijijii"
+			"name": "Site Lighting"
 		},
 		{
-			"name": "kkkk"
+			"name": "Exterior"
 		},
 		{
-			"name": "banana"
+			"name": "Building"
 		}
 	]
 }
