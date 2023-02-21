@@ -1,0 +1,13 @@
+{
+	"occupancy_types": [
+		{
+			"name": "Site Lighting",
+		},
+		{
+			"name": "Exterior",
+		},
+		{
+			"name": "Building",
+		}
+  ]
+}
