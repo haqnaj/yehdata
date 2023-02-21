@@ -2,6 +2,9 @@
 	"occupancy_types": [
 		{
 			"name": "Process and Material Handling"
+		},
+		{
+			"name": "Other Items"
 		}
 	]
 }
