@@ -11,6 +11,9 @@
 		{
 			"name": "Building",
 			"temp": 6
+		},
+		{
+			"name": "Storage"
 		}
 	]
 }
