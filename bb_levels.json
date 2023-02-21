@@ -2,15 +2,15 @@
 	"occupancy_types": [
 		{
 			"name": "Site Lighting",
-			"temp": 0
+			"temp": 2
 		},
 		{
 			"name": "Exterior",
-			"temp": 0
+			"temp": 3
 		},
 		{
 			"name": "Building",
-			"temp": 0
+			"temp": 6
 		}
 	]
 }
